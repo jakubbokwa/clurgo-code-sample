@@ -4,6 +4,6 @@ A number of pages, components, hooks and utilities have been extracted for a sho
 
 The files have the directive "@ts-ignore" / "@ts-nocheck" on the top in order to avoid excessive red error underlining of missing imports. On a day-to-day basis, ignoring TypeScript errors and warnings is very rarely practiced and disapproved of.
 
-The components and pages included in this fragment were created by me in full or co-authored, and as such may be a product of a whole team of developers with various attitudes, thus certain aspects of the project still hold room for improvements. I would be very glad to talk about this code during an upcoming meeting.
+The components and pages included in this fragment were created by me in full or co-authored, and as such may be a product of a whole team of developers with various attitudes and methodologies, developed over a long time, thus certain aspects of the project still hold room for improvements and refactors. I would be very glad to talk about this code during an upcoming meeting.
 
 Jakub Bokwa
